@@ -211,7 +211,7 @@ GameObject:
   - component: {fileID: 108358412}
   - component: {fileID: 108358411}
   m_Layer: 5
-  m_Name: tic4
+  m_Name: Tic4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -344,7 +344,7 @@ GameObject:
   - component: {fileID: 110994454}
   - component: {fileID: 110994453}
   m_Layer: 5
-  m_Name: new game
+  m_Name: New Game
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -477,7 +477,7 @@ GameObject:
   - component: {fileID: 162449775}
   - component: {fileID: 162449774}
   m_Layer: 5
-  m_Name: tic7
+  m_Name: Tic7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -692,7 +692,7 @@ GameObject:
   - component: {fileID: 437815990}
   - component: {fileID: 437815989}
   m_Layer: 5
-  m_Name: reset
+  m_Name: Reset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -825,7 +825,7 @@ GameObject:
   - component: {fileID: 450969975}
   - component: {fileID: 450969974}
   m_Layer: 5
-  m_Name: tic8
+  m_Name: Tic8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1252,7 +1252,7 @@ GameObject:
   - component: {fileID: 612301535}
   - component: {fileID: 612301534}
   m_Layer: 5
-  m_Name: TIC TAK TOE text
+  m_Name: Tic Tac Toe Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1418,7 +1418,7 @@ GameObject:
   - component: {fileID: 643442205}
   - component: {fileID: 643442204}
   m_Layer: 5
-  m_Name: tic6
+  m_Name: Tic6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1624,7 +1624,7 @@ GameObject:
   - component: {fileID: 723381567}
   - component: {fileID: 723381566}
   m_Layer: 5
-  m_Name: tic3
+  m_Name: Tic3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1757,7 +1757,7 @@ GameObject:
   - component: {fileID: 806222520}
   - component: {fileID: 806222519}
   m_Layer: 5
-  m_Name: tic2
+  m_Name: Tic2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1969,7 +1969,7 @@ GameObject:
   - component: {fileID: 872754911}
   - component: {fileID: 872754910}
   m_Layer: 5
-  m_Name: tic1
+  m_Name: Tic1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2497,7 +2497,7 @@ GameObject:
   - component: {fileID: 1185249447}
   - component: {fileID: 1185249446}
   m_Layer: 5
-  m_Name: tic5
+  m_Name: Tic5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2629,7 +2629,7 @@ GameObject:
   - component: {fileID: 1263042139}
   - component: {fileID: 1263042138}
   m_Layer: 5
-  m_Name: txtMessage
+  m_Name: TxtMessage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2709,7 +2709,7 @@ GameObject:
   - component: {fileID: 1440611732}
   - component: {fileID: 1440611731}
   m_Layer: 5
-  m_Name: tic9
+  m_Name: Tic9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
