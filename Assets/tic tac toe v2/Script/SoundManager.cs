@@ -2,28 +2,28 @@ using UnityEngine;
 
 public class SoundManager : MonoBehaviour
 {
-    public static SoundManager Instance;
+    public static SoundManager instance;
 
-    public AudioSource audioSource;
-    public AudioClip clickSound;
-    public AudioClip winSound;
+    public AudioSource clickSound;
+    public AudioSource winSound;
 
     void Awake()
     {
-        if (Instance == null)
-            Instance = this;
+        if (instance == null)
+            instance = this;
         else
             Destroy(gameObject);
     }
 
     public void PlayClick()
     {
-        audioSource.PlayOneShot(clickSound);
+        clickSound.Play();
     }
 
     public void PlayWin()
     {
-        audioSource.PlayOneShot(winSound);
-    }    
+        winSound.Play();
+    }
 }
+
 

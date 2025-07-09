@@ -174,7 +174,7 @@ public class Tictactoe : MonoBehaviour
         if (Text1.text != "" && Text2.text != "" && Text3.text != "" &&
     Text4.text != "" && Text5.text != "" && Text6.text != "" &&
     Text7.text != "" && Text8.text != "" && Text9.text != "" &&
-    msg.text == "") // No one has won yet
+    msg.text == "")
         {
             msg.text = "It's a Draw!";
         }
